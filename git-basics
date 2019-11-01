@@ -1,0 +1,6 @@
+First i learned how to create a repository. Repository is used to store your details of project like your codes, important files
+etc. This is your master repository. 
+After creating a master repository, you can create a branch of that repository which will act like a copy of the master repository
+where you can apply changes you want to make on the master repository. 
+To incorporate these changes in the master repository, you have to pull a request. 
+To bring the changes you have made in the branch with the master repository, you have to click on merge pull request.
